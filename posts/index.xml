@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi Pagina Personal</title>
+    <link>https://jafetmoo.github.io/posts/</link>
+    <description>Recent content in Posts on Mi Pagina Personal</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jafetmoo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentación</title>
+      <link>https://jafetmoo.github.io/posts/presentacion/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jafetmoo.github.io/posts/presentacion/</guid>
+      <description>&lt;p&gt;Hola, mi nombre es Jafet Sima y esta es mi pagina de prueba creada con Hugo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
